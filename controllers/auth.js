@@ -7,10 +7,13 @@ const {BadRequestError, UnauthenticatedError} = require('../errors')
 //!REGISTER CASE
 const register = async (req,res)=>{
   // const {name,email,password} = req.body;
+
+  //? bunun yerine mongoDB validator kullanmayı tercih ettik
   // if(!name || !email || !password){
   //   throw new BadRequestError('Please provide name,email and password')
   // }
 
+  //? user model icinde pre middleware ile hallettik
   // const salt = await bcrypt.genSalt(10);
   // const hashedPassword = await bcrypt.hash(password,salt)
   // const tempUser = {name,email,password:hashedPassword}
