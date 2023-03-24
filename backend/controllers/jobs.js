@@ -31,6 +31,7 @@ if(company==='' || position===''){
   throw new BadRequestError('Company or Position Fields cannot be empty')
 }
 
+//!new:true --> update edileni responseda geri alabilmek icin
 const job = await Job.findByIdAndUpdate({_id:jobId, createdBy:userId}, req.body, {new:true, runValidators:true});
 if (!job) {
   throw new NotFoundError(`No job with id:${jobId}`);
