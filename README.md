@@ -1,7 +1,7 @@
 <h1 align="center">NodeJS JobsAPI</h1>
 
 <h3>Overview</h3>
-👨‍💻 In this project I mastered React skills. I used mainly REACT and Material UI, Bootstrap, React Router, Redux, Formik/Yup, Firebase. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
+👨‍💻 In this project I mastered NodeJS skills. I used mainly nodejs and MongoDB.  The objective is to build out this real-like webApi and make it looking as professional as possible..
 <hr>
 
 ## ✨ Demo
@@ -14,7 +14,7 @@
 
 <hr>
 
-[📍You can see the live site from here!](https://reactmyblogapp.vercel.app/)
+[📍You can see the webservice from here!]()
 
 <!-- ------------------------------------------------------ -->
 ### Purpose of Project;
