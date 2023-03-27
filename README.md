@@ -4,15 +4,15 @@
 👨‍💻 In this project I mastered NodeJS skills. I used mainly nodejs and MongoDB.  The objective is to build out this real-like webApi and make it looking as professional as possible..
 <hr>
 
-## ✨ Demo
+<!-- ## ✨ Demo
 
  <p align="center">
   <img width="700" align="center" src="./public/gif/readme.gif" alt="demo"/>   
-</p>
+</p> -->
 
-<!-- ![Alt text](https://giphy.com/peekasso)  -->
+<!-- ![Alt text](https://giphy.com/peekasso) 
 
-<hr>
+<hr> -->
 
 [📍You can see the webservice from here!]()
 
